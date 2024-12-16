@@ -21,5 +21,5 @@ This is a classic **Tic Tac Toe** game built using **HTML**, **CSS**, and **Java
 - **CSS**: For styling the board and providing visual feedback.
 - **JavaScript**: To manage game logic, including turn tracking, win detection, and resetting the game.
 
-Feel free to clone, fork, or improve this project. Contributions are welcome!
+**Feel free to clone, fork, or improve this project. Contributions are welcome!**
 
