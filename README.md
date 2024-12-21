@@ -12,7 +12,6 @@ A modern twist on the **classic Tic Tac Toe game**, built with **HTML**, **CSS**
 ✨ **Win Detection**: Automatically announces the winner with a satisfying visual effect.  
 ✨ **Draw Detection**: Declares a tie if no winner emerges.  
 ✨ **Reset Option**: Start fresh anytime with a single click.  
-✨ **Responsive Design**: Clean, modern UI that looks great on all devices.  
 
 ---  
 
