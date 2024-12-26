@@ -38,6 +38,6 @@ A modern twist on the **classic Tic Tac Toe game**, built with **HTML**, **CSS**
 
 ---  
 
-💻 *Ready to play? Clone this repository, open the project in your browser, and start the competition!* 🕹️  
+*Ready to play? Clone this repository, open the project in your browser, and start the competition!* 🕹️  
 
 ---  
