@@ -6,7 +6,7 @@ A modern twist on the **classic Tic Tac Toe game**, built with **HTML**, **CSS**
 
 ## 🌟 Features  
 
-✨ **Interactive Gameplay**: A sleek 3x3 grid that responds to players moves.  
+✨ **Interactive Gameplay**: A sleek 3x3 grid that responds to player moves.  
 ✨ **Two-Player Mode**: Take turns and challenge your opponent.  
 ✨ **Real-Time Feedback**: Visual indicators highlight the current player's move.  
 ✨ **Win Detection**: Automatically announces the winner with a satisfying visual effect.  
